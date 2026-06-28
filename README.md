@@ -2,4 +2,4 @@
 
 my first repo
 <br>
-Author - Samikshya Sapkota
+Author - Samikshya_Sapkota
